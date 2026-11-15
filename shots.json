@@ -1,0 +1,5 @@
+[
+  {"file":"screenshots/01-board.png","route":"#/","viewport":"1280x800"},
+  {"file":"screenshots/02-bounty.png","route":"#/bounty/makefun-frontend-01","viewport":"1280x800"},
+  {"file":"screenshots/03-leaderboard.png","route":"#/bounty/free-model-aggregator-02/leaderboard","viewport":"1280x800"}
+]
